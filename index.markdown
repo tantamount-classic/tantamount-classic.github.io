@@ -32,7 +32,7 @@ the winner of the previous tournament.
 
 When selecting the location of an upcoming tournament, the winner
 of the previous tournament
-must choose a location somewhere within the continguous United States.
+must choose a location somewhere within the contiguous United States.
 
 ## Buy-in
 
