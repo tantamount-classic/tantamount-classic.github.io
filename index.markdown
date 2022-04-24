@@ -11,7 +11,7 @@ title: "Tantamount Classic"
 The Fall '11 pledge class was a historic pledge class;
 this pledge class holds the record for the lowest percentage
 of boners for a single pledge class in Pi chapter history. A close second
-was that pledge class with Tyler Ballay and Ricky Nicolay. The pledge
+was that pledge class with Ballay and Nicolay. The pledge
 class with the highest percentange of boners in Pi chapter history was
 of course Fall '10.
 
