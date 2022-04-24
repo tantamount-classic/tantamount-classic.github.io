@@ -47,12 +47,22 @@ tournament, and to otherwise fund the tournament.
 
 The winner of the tournament will receive a Pillar of Success trophy
 and all of the buy-in money not used to fund the tournament.
+The winner will also get to select the location of the next tournament.
 
 ## Eligible Players
 
 All initiated Fall '11 members are eligible for the tournament unless
 barred by the executive committee. Friends who are not members of
 Fall '11 can be eligible to play if approved by the executive committee.
+
+## Other Activities
+
+On Saturday night we'll do a group dinner and hit the bars afterward.
+The winner from the previous tournament gets to select either the
+dinner spot or one of the bars for the night.
+
+On Sunday morning many, but likely not everyone, will still be in town
+and can plan to do brunch.
 
 ## Executive Committee
 

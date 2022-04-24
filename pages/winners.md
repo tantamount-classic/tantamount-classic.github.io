@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Previous Winners"
+title: "Past Winners"
 ---
 
-## Previous Winners
+## Past Winners
 
 * TBD
 
