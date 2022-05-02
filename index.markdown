@@ -17,11 +17,11 @@ of course Fall '10.
 
 The Tantamount Classic is a weekend golf tournament held to celebrate
 the historic Fall '11 pledge class on a recurring basis. To start, the
-tournament will be held every two years.
+tournament will be held every three years.
 
 ## Weekend
 
-For any given year, the tournament will be held on the first Saturday
+For any given year, the tournament will be held on the second Saturday
 of October.
 
 ## Location
