@@ -24,7 +24,7 @@ every 2 or 3 years.
 ## Weekend
 
 For any given year, the tournament will be held on the third Saturday
-of September
+of September.
 
 ## Location
 
