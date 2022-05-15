@@ -1,7 +1,9 @@
 The player with the lowest score should get the Pillar of Success trophy
 each year. Previous winners should have a handicap or hurdle to winning
 money in future tournaments; the handicap or hurdle should have a half
-life. A winner should be ineligible to determine the location of the
+life. Could be called the "money hurdle".
+
+A winner should be ineligible to determine the location of the
 next tournament until X (maybe 6?) others have had a chance to determine
 a location.
 
