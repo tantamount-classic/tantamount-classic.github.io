@@ -8,15 +8,11 @@ title: "Tantamount Classic"
 
 ## Core Premise
 
-The Fall '11 pledge class was a historic pledge class;
-this pledge class holds the record for the lowest percentage
-of boners for a single pledge class in Pi chapter history. A close second
-was that pledge class with Ballay and Nicolay. The pledge
-class with the highest percentange of boners in Pi chapter history was
-of course Fall '10.
-
+The Fall '11 pledge class was a historic pledge class in Pi chapter
+history; a pledge class rivaled only by that of the pledge class with
+Nicolay and Ballay.
 The Tantamount Classic is a weekend golf tournament held to celebrate
-the historic Fall '11 pledge class on a recurring basis.
+the great Fall '11 pledge class on a recurring basis.
 The frequency at which the tournament
 will be held is still up for debate but will likely be in the realm of
 every 2 or 3 years.
