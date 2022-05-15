@@ -64,8 +64,5 @@ and can plan to do brunch.
 
 ## Executive Committee
 
-The executive committee will consist of 3 members from the Fall '11
-pledge class.
-
-Once decided, the executive committee will be listed [here](/pages/committee).
+The executive committee can be found [here](/pages/committee).
 
