@@ -13,9 +13,7 @@ history; a pledge class rivaled only by that of the pledge class with
 Nicolay and Ballay.
 The Tantamount Classic is a weekend golf tournament held to celebrate
 the great Fall '11 pledge class on a recurring basis.
-The frequency at which the tournament
-will be held is still up for debate but will likely be in the realm of
-every 2 or 3 years.
+The tournament will be held every other year.
 
 ## Weekend
 
