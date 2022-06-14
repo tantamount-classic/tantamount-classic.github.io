@@ -17,13 +17,13 @@ The tournament will be held every other year.
 
 ## Weekend
 
-For any given year, the tournament will be held on the third Saturday
-of September.
+TBD
 
 ## Location
 
-The location of the inaugural tournament will be held in Bloomington, IN;
-and the location of each tournament afterwards will be determined by
+TBD
+
+The location of each tournament afterwards will be determined by
 the winner of the previous tournament.
 
 When selecting the location of an upcoming tournament, the winner
